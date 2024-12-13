@@ -1,0 +1,2 @@
+# npmpackage
+GsLibrary For NPM
